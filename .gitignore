@@ -1,0 +1,17 @@
+target/
+out/
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+**/*.iml
+*.ipr
